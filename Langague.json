@@ -1,0 +1,10 @@
+{
+  "unknown":"inconnu",
+  "PDFJS": "Le PDF contient du javascript",
+  "SuspectExt":"L'extension d'origine n'es pas la vrai extension du fichier \r\nAttention cela peu comporté un risque",
+  "FileName":"Nom du Fichier : ",
+  "Ext":"Extension : ",
+  "RealExt":"Vrai Extension : ",
+  "Suspect": "Suspect : ",
+  "view":"Voir"
+}
